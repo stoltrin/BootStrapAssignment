@@ -1,0 +1,30 @@
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    font-family: 'Handlee', cursive;
+    font-size: large;
+    border: black solid;
+    margin: 0.5em;
+}
+.card{
+    background-color: gray;
+    border-color: white solid;
+    box-shadow: 0 0 0.5em black;
+}
+.image-edit {
+    width: 60;
+    height: auto;
+    padding: 3em;
+    box-shadow: 0 0 1em black;
+    margin: 1em
+}
+.image-edit-2 {
+    width: 60;
+    height: auto;
+    padding: 3em;
+    box-shadow: 0 0 1em black;
+    margin: 1em;
+}
+.button{
+    color: purple;
+}

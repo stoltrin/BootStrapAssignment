@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Handlee', cursive;
+    font-size: large;
+    border: black solid;
+    margin: 0.5em;
+}
